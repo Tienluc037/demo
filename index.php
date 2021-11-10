@@ -1,3 +1,6 @@
+<?php
+include_once "data.php";
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -8,9 +11,12 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-include_once
-
-
+<table>
+    <tr>
+        <th>name</th>
+        <th>age</th>
+        <th>address</th>
+    </
+</table>
 </body>
 </html>
